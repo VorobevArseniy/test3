@@ -1,0 +1,25 @@
+.upperContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 156px;
+  width: 100%;
+}
+
+.logo {
+  margin: 60px;
+}
+
+.logo img {
+  margin: 10px;
+  width: 206px;
+  height: 101px;
+}
+
+.textBlock {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 580px;
+  height: 48px;
+}
