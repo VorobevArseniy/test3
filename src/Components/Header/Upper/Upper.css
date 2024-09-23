@@ -16,10 +16,19 @@
   height: 101px;
 }
 
-.textBlock {
+.textBlock ul {
   display: flex;
   justify-content: space-around;
   align-items: center;
   width: 580px;
   height: 48px;
+}
+
+.blockItem {
+  list-style-type: none;
+}
+
+.blockItem a {
+  text-decoration: none;
+  color: black;
 }

@@ -5,7 +5,7 @@ export default function Block1() {
   return (
     <div>
       <div className="phonesImgContainer">
-        <img src="assets\phones.png" alt="" />
+        <img src="src\assets\phones.png" alt="" />
       </div>
       <div className="block1Container">
         <div className="block1Line"></div>

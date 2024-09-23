@@ -19,7 +19,7 @@ export default function Body() {
       /> */}
 
       {array.map((data) => (
-        <BC key={data.description} {...data} />
+        <BC key={data.text} {...data} />
       ))}
 
       <Goida></Goida>

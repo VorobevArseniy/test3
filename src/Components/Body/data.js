@@ -1,6 +1,6 @@
 export const array = [
   {
-    src: "assets/BC.png",
+    src: "src/assets/BC.png",
     title: "Create an account",
     text: "Create/login to an existing account to get started",
     description: "An account is created with your email and a desired password",
@@ -8,7 +8,7 @@ export const array = [
   },
 
   {
-    src: "assets/BC.png",
+    src: "src/assets/BC.png",
     title: "Explore varieties",
     text: "Shop for your favorites meal as e dey hot.",
     description:
@@ -17,7 +17,7 @@ export const array = [
   },
 
   {
-    src: "assets/BC.png",
+    src: "src/assets/BC.png",
     title: "Checkout",
     text: "When you done check out and get it delivered.",
     description: "When you done check out and get it delivered with ease.",
@@ -25,10 +25,10 @@ export const array = [
   },
 
   {
-    src: "assets/BC.png",
+    src: "src/assets/BC.png",
     title: "GOIDA",
     text: "Жесть какая гойда.",
-    description: "When you done check out and get it delivered with ease.",
+    description: "Вау просто невероятная гойда вселенских масштабов.",
     isMirrored: true,
   },
 ];

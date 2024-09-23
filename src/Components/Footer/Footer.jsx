@@ -6,7 +6,7 @@ export default function Footer() {
     <div>
       <div className="footerContainer">
         <div className="logo">
-          <img src="assets\logo.png" alt="" />
+          <img src="src\assets\logo.png" alt="" />
         </div>
         <div className="socialsContainer">
           <div>A</div>
